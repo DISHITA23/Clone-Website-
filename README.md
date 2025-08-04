@@ -1,14 +1,11 @@
 🎨 UsabilityHub Landing Page Clone
 
-A **pixel-perfect clone** of the [UsabilityHub](https://usabilityhub.com/) landing page — built entirely with **HTML5** + **CSS3**.  
-This project focuses on **responsive design**, **modern UI practices**, and **clean, reusable code** to bring a real-world website layout to life.
-
-
- 🌍 Live Demo
-🚀 **[View the Live Project Here](https://dishita23.github.io/Clone-Website-/)**  
+A **pixel-perfect clone** of the UsabilityHub landing page — built entirely with **HTML5** + **CSS3**.  
+This project focuses on **responsive design**, **modern UI practices**, and **clean, reusable code** to bring a real-world website layout to life. 
 
 
  ✨ Features
+ 
 ✔ Fully **responsive** for desktop & mobile  
 ✔ **Reusable utility classes** for buttons, layout, and typography  
 ✔ **CSS Variables** for easy theme/color management  
@@ -34,8 +31,6 @@ This project focuses on **responsive design**, **modern UI practices**, and **cl
 - **Font Awesome** – social icons  
 - **Responsive Design** – works across devices  
 
----
-
 
  📂 Project Structure
 Clone-Website-/
@@ -46,6 +41,6 @@ Clone-Website-/
 ├── assets/ # Images & SVG files
 └── README.md # Documentation
 
-💌 About the Author
-Made with ❤️ by Dishita Modi
-📎 GitHub
+
+ 🌍 Live Demo
+🚀 **[View the Live Project Here](https://dishita23.github.io/Clone-Website-/)** 
