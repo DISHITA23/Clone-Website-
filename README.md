@@ -4,6 +4,10 @@ A **pixel-perfect clone** of the UsabilityHub landing page — built entirely wi
 This project focuses on **responsive design**, **modern UI practices**, and **clean, reusable code** to bring a real-world website layout to life. 
 
 
+🌍 Live Demo
+🚀 **[View the Live Project Here](https://dishita23.github.io/Clone-Website-/)** 
+
+
  ✨ Features
  
 ✔ Fully **responsive** for desktop & mobile  
@@ -42,5 +46,4 @@ Clone-Website-/
 └── README.md # Documentation
 
 
- 🌍 Live Demo
-🚀 **[View the Live Project Here](https://dishita23.github.io/Clone-Website-/)** 
+ 
